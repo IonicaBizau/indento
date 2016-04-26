@@ -1,6 +1,6 @@
 {
   "name": "indento",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "Indent strings.",
   "main": "lib/index.js",
   "directories": {
@@ -25,5 +25,16 @@
   "bugs": {
     "url": "https://github.com/IonicaBizau/indento/issues"
   },
-  "homepage": "https://github.com/IonicaBizau/indento#readme"
+  "homepage": "https://github.com/IonicaBizau/indento#readme",
+  "files": [
+    "bin/",
+    "app/",
+    "lib/",
+    "dist/",
+    "src/",
+    "resources/",
+    "menu/",
+    "cli.js",
+    "index.js"
+  ]
 }
