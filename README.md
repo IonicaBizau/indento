@@ -1,14 +1,18 @@
+
 # indento [![PayPal](https://img.shields.io/badge/%24-paypal-f39c12.svg)][paypal-donations] [![Version](https://img.shields.io/npm/v/indento.svg)](https://www.npmjs.com/package/indento) [![Downloads](https://img.shields.io/npm/dt/indento.svg)](https://www.npmjs.com/package/indento) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
 
 > Indent strings.
 
-## Installation
+## :cloud: Installation
 
 ```sh
 $ npm i --save indento
 ```
 
-## Example
+
+## :clipboard: Example
+
+
 
 ```js
 const indento = require("indento");
@@ -27,7 +31,8 @@ console.log(indento("Hello\nPluto", 2, "a"));
 // aaPluto
 ```
 
-## Documentation
+## :memo: Documentation
+
 
 ### `indento(input, width, char)`
 Indents the input string.
@@ -40,15 +45,21 @@ Indents the input string.
 #### Return
 - **String** The indented string.
 
-## How to contribute
+
+
+## :yum: How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
 
-## Where is this library used?
+## :dizzy: Where is this library used?
 If you are using this library in one of your projects, add it in this list. :sparkles:
 
- - [`emoji-logger`](https://github.com/IonicaBizau/emoji-logger#readme)
 
-## License
+ - [`bgm`](https://github.com/egoist/bgm#readme) (by EGOIST)—Display bangumi list in CLI.
+ - [`emoji-logger`](https://github.com/IonicaBizau/emoji-logger#readme)—Logging library based on flat colors and Emoji.
+ - [`testen`](https://github.com/egoist/testen#readme) (by EGOIST)—Run tests for multiple versions of Node.js in local env.
+ - [`tilda`](https://github.com/IonicaBizau/tilda)—Tiny module for building command line tools.
+
+## :scroll: License
 
 [MIT][license] © [Ionică Bizău][website]
 
