@@ -1,6 +1,6 @@
 {
   "name": "indento",
-  "version": "1.1.4",
+  "version": "1.1.5",
   "description": "Indent strings.",
   "main": "lib/index.js",
   "directories": {
@@ -30,6 +30,7 @@
     "bin/",
     "app/",
     "lib/",
+    "build/",
     "dist/",
     "src/",
     "resources/",
