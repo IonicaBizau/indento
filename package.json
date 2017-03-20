@@ -1,6 +1,6 @@
 {
   "name": "indento",
-  "version": "1.1.7",
+  "version": "1.1.8",
   "description": "Indent strings.",
   "main": "lib/index.js",
   "directories": {
@@ -20,7 +20,7 @@
     "custom",
     "character"
   ],
-  "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
+  "author": "Ionică Bizău <bizauionica@gmail.com> (https://ionicabizau.net)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/IonicaBizau/indento/issues"
@@ -30,12 +30,11 @@
     "bin/",
     "app/",
     "lib/",
-    "build/",
     "dist/",
     "src/",
+    "scripts/",
     "resources/",
     "menu/",
-    "scripts/",
     "cli.js",
     "index.js"
   ]
