@@ -6,6 +6,7 @@ You can see below the API reference of this module.
 Indents the input string.
 
 #### Params
+
 - **String** `input`: The input string.
 - **Number** `width`: The indent width.
 - **String** `char`: The character to use for indentation (default: `" "`).
